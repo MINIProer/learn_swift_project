@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		16D1806D264CD13100C51425 /* 常量和变量.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "常量和变量.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		16D1806E264CFAEF00C51425 /* 注释.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "注释.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		16F57947264CC6F600FFD281 /* SwiftLearnProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLearnProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16F5794A264CC6F600FFD281 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16F5794C264CC6F600FFD281 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				16D1806D264CD13100C51425 /* 常量和变量.playground */,
+				16D1806E264CFAEF00C51425 /* 注释.playground */,
 			);
 			path = TheBasic;
 			sourceTree = "<group>";
