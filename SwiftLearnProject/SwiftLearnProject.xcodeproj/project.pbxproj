@@ -34,6 +34,7 @@
 		16F57958264CC6F700FFD281 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16F57962264E112300FFD281 /* 类型别名.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "类型别名.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		16F57964264E130600FFD281 /* 布尔值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "布尔值.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		16F57966264E14B000FFD281 /* 元组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "元组.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				16D18074264E095300C51425 /* 数值型类型转换.playground */,
 				16F57962264E112300FFD281 /* 类型别名.playground */,
 				16F57964264E130600FFD281 /* 布尔值.playground */,
+				16F57966264E14B000FFD281 /* 元组.playground */,
 			);
 			path = TheBasic;
 			sourceTree = "<group>";
