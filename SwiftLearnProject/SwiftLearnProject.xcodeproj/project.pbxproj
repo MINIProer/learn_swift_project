@@ -37,6 +37,7 @@
 		16F57966264E14B000FFD281 /* 元组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "元组.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		16F57968264E1AA800FFD281 /* 可选类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "可选类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		16F579D7265211A300FFD281 /* 错误处理.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "错误处理.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		16F579D9265220EC00FFD281 /* 断言和先决条件.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "断言和先决条件.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				16F57966264E14B000FFD281 /* 元组.playground */,
 				16F57968264E1AA800FFD281 /* 可选类型.playground */,
 				16F579D7265211A300FFD281 /* 错误处理.playground */,
+				16F579D9265220EC00FFD281 /* 断言和先决条件.playground */,
 			);
 			path = TheBasic;
 			sourceTree = "<group>";
